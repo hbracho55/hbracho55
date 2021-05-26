@@ -1,0 +1,229 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "titulo": "Correo Electrónico",
+            "imagen": "fas fa-envelope",
+            "enlace": "/correo",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Bandeja de entrada",
+                    "enlace": "/persona"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Correos enviados",
+                    "enlace": "/usuario"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Borradores",
+                    "enlace": "/grupo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Requerimientos",
+            "imagen": "fas fa-ticket-alt",
+            "enlace": "/requerimiento",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Registrar",
+                    "enlace": "/reqregistrar"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Pendientes",
+                    "enlace": "/listapendientes"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Solicitados",
+                    "enlace": "/listasolicitados"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Borradores",
+                    "enlace": "/listaborradores"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Administrar",
+                    "enlace": "/listaadministrar"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Buscar",
+                    "enlace": "/buscar"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Resumen",
+                    "enlace": "/resumen"
+                },
+                {
+                    "id": 8,
+                    "nombre": "No Asignados",
+                    "enlace": "/noasignados"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Mensajería interna",
+            "imagen": "fas fa-comments",
+            "enlace": "/mensajeria",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Persona",
+                    "enlace": "/persona"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Usuario",
+                    "enlace": "/usuario"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Grupos",
+                    "enlace": "/grupo"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Tareas",
+                    "enlace": "/tarea"
+                }
+                
+                
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Centro Servicio",
+            "imagen": "fas fa-headset",
+            "enlace": "/centroservicio",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Registrar",
+                    "enlace": "/centroregistrar"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Atenciones",
+                    "enlace": "/centroatenciones"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Actividades",
+                    "enlace": "/centroactividades"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Buscar",
+                    "enlace": "/centrobuscar"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Administrar",
+                    "enlace": "/centroadministrar"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Seguimiento",
+                    "enlace": "/centroseguimiento"
+                }
+            ]
+                
+        },
+        {
+            "id": 5,
+            "titulo": "Seguridad",
+            "imagen": "fas fa-user-lock",
+            "enlace": "/seguridad",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Persona",
+                    "enlace": "/persona"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Usuario",
+                    "enlace": "/usuario"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Grupos",
+                    "enlace": "/grupo"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Tareas",
+                    "enlace": "/tarea"
+                }
+                
+                
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Configuración",
+            "imagen": "fas fa-tools",
+            "enlace": "/configuracion",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Opciones de Unidad",
+                    "enlace": "/opcionesunidad"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Servicios",
+                    "enlace": "/servicio"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Productos",
+                    "enlace": "/producto"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Actividades",
+                    "enlace": "/actividad"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Prioridades",
+                    "enlace": "/prioridad"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Etapas",
+                    "enlace": "/etapa"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Causas",
+                    "enlace": "/causa"
+                },
+                {
+                    "id":8,
+                    "nombre": "Flujos de Trabajo",
+                    "enlace": "/flujotrabajo"
+                },
+                {
+                    "id": 9,
+                    "nombre": "Plantillas",
+                    "enlace": "/plantilla"
+                }
+            ]
+                
+        }
+        
+    ]
+}

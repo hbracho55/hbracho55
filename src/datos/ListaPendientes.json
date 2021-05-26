@@ -1,0 +1,33 @@
+{
+    "lista_pendientes":[
+        {
+            "titulos": ["Nro Req", "Fecha Recibido", "Prioridad","Solicitante","Actividad"] ,
+            "datos":[
+                {
+                    "enlace": "/reqatender",
+                    "nro_req": "9897893",
+                    "fecha": "28/04/2021",
+                    "prioridad": "Alta",
+                    "solicitante": "Angel Roberto Vargas García",
+                    "actividad": "Instalación de antivirus"
+                },
+                {
+                    "enlace": "/reqatender",
+                    "nro_req": "3323423",
+                    "fecha": "29/04/2021",
+                    "prioridad": "Baja",
+                    "solicitante": "Maria Alejandra Gonzalez",
+                    "actividad": "Creación de usuario de red"
+                },
+                {
+                    "enlace": "/reqatender",
+                    "nro_req": "1123214",
+                    "fecha": "30/04/2021",
+                    "prioridad": "Media",
+                    "solicitante": "Rosario Alejandra Fuentes",
+                    "actividad": "Instalación de SAP"
+                }
+            ]
+        }
+    ]
+}

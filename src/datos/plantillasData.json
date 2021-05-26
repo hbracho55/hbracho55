@@ -1,0 +1,22 @@
+{
+    "plantillasData": [
+    {
+        "id": 1,
+        "nombre": "Plantilla para copmletar datos en requerimiento",
+        "idTipoPlantilla": 1,
+        "idEstado": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Plantilla para completar datos en soluciones de requerimientos",
+        "idTipoPlantilla": 2,
+        "idEstado": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Plantilla para completar datos en finalizar requerimiento",
+        "idTipoPlantilla": 2,
+        "idEstado": 1
+    }
+]
+}

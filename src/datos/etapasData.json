@@ -1,0 +1,22 @@
+{
+    "etapasData": [
+        {
+            "id": 1,
+            "nombre": "En proceso",
+            "descripcion": "Etapa cuando se está atendiendo un requerimiento",
+            "idEstado": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Suspendido",
+            "descripcion": "El requerimiento es paralizado momentáneamente",
+            "idEstado": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Finalizado",
+            "descripcion": "Cuando terminó la atención del requerimiento",
+            "idEstado": 1
+        }
+    ]
+}

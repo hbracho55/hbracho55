@@ -1,0 +1,39 @@
+.listapendientes__container{
+  background: white;
+}
+
+.card__body{
+    border: 1px;
+    border-color: gray;
+    background-color: #f6fafd;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+  }
+
+  .card__contacto{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .card__numero{
+    grid-column: 1/6;
+  
+  }
+
+  .card__asunto,
+  .card__contacto{
+    grid-column: 1/6;
+    font-size: 14px;
+  }
+  
+  .card__prioridad,
+  .card__estado{
+    grid-column: 6/6;
+    font-size: 14px;
+    padding-left: 5px;
+  }
+  
+  .listapendientes__modal__body{
+    font-size: 13px;
+  }

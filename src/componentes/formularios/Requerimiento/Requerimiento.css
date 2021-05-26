@@ -1,0 +1,31 @@
+.requerimiento__container{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border: 1px;
+    border-color: gray;
+    gap: 0px;
+    
+    display: grid;
+    grid-template-columns: 100%
+}
+
+.requerimiento__menusecundario{
+    background: whitesmoke;
+    max-width: 200px;
+    padding-left: 5px;
+    margin: 0px;
+    border: 1px solid rgb(226, 225, 225)
+}
+
+.requerimiento__lista{
+    padding: 0px;
+    margin: 0px;
+}
+
+.requerimiento__menusuperior{
+    background: whitesmoke;
+    padding-left: 5px;
+    margin: 0px;
+    border: 1px solid rgb(226, 225, 225)
+}

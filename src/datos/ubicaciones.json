@@ -1,0 +1,20 @@
+{
+    "ubicaciones": [
+        {
+            "id": 1,
+            "nombre": "Edificio Sede Principal"
+        },
+        {
+            "id": 2,
+            "nombre": "Edificio norte"
+        },
+        {
+            "id": 3,
+            "nombre": "Edificio de la Región Sur"
+        },
+        {
+            "id": 4,
+            "nombre": "Edificio del Este"
+        }
+    ]
+}

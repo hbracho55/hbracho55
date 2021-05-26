@@ -1,0 +1,19 @@
+{
+    "prioridadesData": [
+        {
+            "id": 1,
+            "nombre": "Alta",
+            "idEstado": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Media",
+            "idEstado": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Baja",
+            "idEstado": 1
+        }
+    ]
+}

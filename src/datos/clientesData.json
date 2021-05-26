@@ -1,0 +1,103 @@
+{
+    "clientesData": [
+        {
+            "id": 1,
+            "nombre": "Hector Jose",
+            "apellido": "Bracho Mendoza",
+            "nroIdent": "25516031-1",
+            "telefInterno": "3528",
+            "unidad": "Depto de Sistemas de Información",
+            "ubicacion": "Edificio Sede Principal"
+        },
+        {
+            "id": 2,
+            "nombre": "Marcela Victoria",
+            "apellido": "Bracho Contreras",
+            "nroIdent": "25654750-3",
+            "telefInterno": "35471",
+            "unidad": "Depto de Contabilidad",
+            "ubicacion": "Edificio Norte"
+        },
+        {
+            "id": 3,
+            "nombre": "María Alejandra",
+            "apellido": "Perez García",
+            "nroIdent": "25545432-1",
+            "telefInterno": "2342",
+            "unidad": "Depto de Planificación",
+            "ubicacion": "Edificio nueva Sede"
+        },
+        {
+            "id": 4,
+            "nombre": "Patricia Andrea",
+            "apellido": "Gonzalez Perez",
+            "nroIdent": "23456785-1",
+            "telefInterno": "1221",
+            "unidad": "Depto de Tesorería",
+            "ubicacion": "Edificio del Sur"
+        },
+        {
+            "id": 5,
+            "nombre": "Carlos Andrés",
+            "apellido": "Oropeza González",
+            "nroIdent": "14564777-1",
+            "telefInterno": "3423",
+            "unidad": "Depto de Administración",
+            "ubicacion": "Edificio del Este"
+        },
+        {
+            "id": 6,
+            "nombre": "Carmen Yolanda",
+            "apellido": "García Melendez",
+            "nroIdent": "21234543-1",
+            "telefInterno": "1223",
+            "unidad": "Depto de Enfermería",
+            "ubicacion": "Edificio del Sureste"
+        },
+        {
+            "id": 7,
+            "nombre": "Ramón Alberto",
+            "apellido": "Gonzalez Ramirez",
+            "nroIdent": "19999653-1",
+            "telefInterno": "1234",
+            "unidad": "Depto de Tesorería",
+            "ubicacion": "Edificio del Sur"
+        },
+        {
+            "id": 8,
+            "nombre": "Jaime José",
+            "apellido": "Vivas Mendoza",
+            "nroIdent": "22222356-1",
+            "telefInterno": "1211",
+            "unidad": "Depto de Soporte Teconóligo",
+            "ubicacion": "Edificio Sede Principal"
+        },
+        {
+            "id": 9,
+            "nombre": "Manuel Alejandro",
+            "apellido": "Villegas Moreno",
+            "nroIdent": "21232226-1",
+            "telefInterno": "1245",
+            "unidad": "Depto de Telecomunicaciones",
+            "ubicacion": "Edificio del Suereste"
+        },
+        {
+            "id": 10,
+            "nombre": "Juan Manuel",
+            "apellido": "Martinez Perez",
+            "nroIdent": "10222943-1",
+            "telefInterno": "12543",
+            "unidad": "Depto de Contabilidad",
+            "ubicacion": "Edificio del Sur"
+        },
+        {
+            "id": 11,
+            "nombre": "Maria de los Angeles",
+            "apellido": "Torres Gutierrez",
+            "nroIdent": "34322233-1",
+            "telefInterno": "5465",
+            "unidad": "Depto de Psicología",
+            "ubicacion": "Edificio nuevo"
+        }
+    ]
+}

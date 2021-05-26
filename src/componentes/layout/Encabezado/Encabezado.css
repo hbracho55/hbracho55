@@ -1,0 +1,15 @@
+
+.encabezado__container {
+  display: grid;
+  background-color: #f6fafd;
+  margin: 0px;
+  width: 100%;
+  grid-column: 1/7;
+  grid-template-columns: 200px 150px 50px 1fr 350px 60px 50px 60px;
+  grid-template-rows: 40px;
+  align-items: center;
+}
+
+.encabezado__container > .div {
+  align-items: center;
+}

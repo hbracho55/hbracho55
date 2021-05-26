@@ -1,0 +1,167 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "titulo": "Requerimiento",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Registrar",
+                    "enlace": "/reqregistrar"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Pendientes",
+                    "enlace": "/listapendientes"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Solicitados",
+                    "enlace": "/listasolicitados"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Borradores",
+                    "enlace": "/listaborradores"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Administrar",
+                    "enlace": "/listaadministrar"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Buscar",
+                    "enlace": "/buscar"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Resumen",
+                    "enlace": "/resumen"
+                },
+                {
+                    "id": 8,
+                    "nombre": "No Asignados",
+                    "enlace": "/noasignados"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Configuración",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Opciones de Unidad",
+                    "enlace": "/opcionesunidad"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Servicios",
+                    "enlace": "/servicio"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Productos",
+                    "enlace": "/producto"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Actividades",
+                    "enlace": "/actividad"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Prioridades",
+                    "enlace": "/prioridad"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Etapas",
+                    "enlace": "/etapa"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Causas",
+                    "enlace": "/causa"
+                },
+                {
+                    "id":8,
+                    "nombre": "Flujos de Trabajo",
+                    "enlace": "/flujotrabajo"
+                },
+                {
+                    "id": 9,
+                    "nombre": "Plantillas",
+                    "enlace": "/plantilla"
+                }
+            ]
+                
+        },
+        {
+            "id": 3,
+            "titulo": "Centro Servicio",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Registrar",
+                    "enlace": "/centroregistrar"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Atenciones",
+                    "enlace": "/centroatenciones"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Actividades",
+                    "enlace": "/centroactividades"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Buscar",
+                    "enlace": "/centrobuscar"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Administrar",
+                    "enlace": "/centroadministrar"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Seguimiento",
+                    "enlace": "/centroseguimiento"
+                }
+            ]
+                
+        },
+        {
+            "id": 4,
+            "titulo": "Seguridad",
+            "nodos": [
+                {
+                    "id": 1,
+                    "nombre": "Persona",
+                    "enlace": "/persona"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Usuario",
+                    "enlace": "/usuario"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Grupos",
+                    "enlace": "/grupo"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Tareas",
+                    "enlace": "/tarea"
+                }
+                
+                
+            ]
+        }
+    ]
+}

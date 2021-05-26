@@ -1,0 +1,40 @@
+{
+    "unidades": [
+        {
+            "id": 1,
+            "nombre": "Presidencia"
+        },
+        {
+            "id": 2,
+            "nombre": "Gerencia de Sistemas y Tecnología"
+        },
+        {
+            "id": 3,
+            "nombre": "Departamento de Sistemas de Información"
+        },
+        {
+            "id": 4,
+            "nombre": "Departamento de Soporte Tecnológico"
+        },
+        {
+            "id": 5,
+            "nombre": "Departamento de Contabilidad"
+        },
+        {
+            "id": 6,
+            "nombre": "Departamento de Nómina"
+        },
+        {
+            "id": 7,
+            "nombre": "Gerencia de Recursos Humanos"
+        },
+        {
+            "id": 8,
+            "nombre": "Departamento de Tesorería"
+        },
+        {
+            "id": 9,
+            "nombre": "Departamento de Servicios Médicos"
+        }
+    ]
+}

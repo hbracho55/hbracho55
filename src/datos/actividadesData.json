@@ -1,0 +1,76 @@
+{
+    "actividadesData": [
+        {
+            "id": 1,
+            "nombre": "Configurar Correo electrónico",
+            "descripcion": "Configurar correo corporativo",
+            "tiempo": 40,
+            "requiereSol": true,
+            "requiereFecha": false,
+            "idEstado": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Registrar usuario en el dominio",
+            "descripcion": "Registrar usuario en el dominio",
+            "tiempo": 30,
+            "requiereSol": true,
+            "requiereFecha": true,
+            "idEstado": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Realizar mejora a programa",
+            "descripcion": "Realizar mejora a programa",
+            "tiempo": 180,
+            "requiereSol": true,
+            "requiereFecha": false,
+            "idEstado": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Corregir falla en sistema",
+            "descripcion": "Corregir falla",
+            "tiempo": 20,
+            "requiereSol": true,
+            "requiereFecha": true,
+            "idEstado": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Levantar información de necesidad",
+            "descripcion": "Levantar información para requerimiento",
+            "tiempo": 180,
+            "requiereSol": false,
+            "requiereFecha": false,
+            "idEstado": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Realizar manetenimiento a sistema",
+            "descripcion": "Realizar manetenimiento",
+            "tiempo": 60,
+            "requiereSol": true,
+            "requiereFecha": false,
+            "idEstado": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Crear reporte",
+            "descripcion": "Crear reporte",
+            "tiempo": 120,
+            "requiereSol": true,
+            "requiereFecha": true,
+            "idEstado": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Instalar antivirus",
+            "descripcion": "Instalar antivirus",
+            "tiempo": 20,
+            "requiereSol": true,
+            "requiereFecha": false,
+            "idEstado": 1
+        }
+    ]
+}

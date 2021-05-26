@@ -1,0 +1,52 @@
+{
+    "productosData": [
+        {
+            "id": 1,
+            "nombre": "Sistema Comercial",
+            "descripcion": "Sistema corporativo empresarial",
+            "idEstado": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Sistema Financiero",
+            "descripcion": "Sistema corporativo para finanzas",
+            "idEstado": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Sistema Logístico",
+            "descripcion": "Sistema corporativo para logística",
+            "idEstado": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Sistema de Obras",
+            "descripcion": "Sistema para definir obras de trabajo",
+            "idEstado": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Sistema de Atención de requerimientos",
+            "descripcion": "Sistema corporativo para gestionar servicios",
+            "idEstado": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Sistema de Nómina",
+            "descripcion": "Sistema corporativo de nómina de personal",
+            "idEstado": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Computador corporativo",
+            "descripcion": "Computador personal asignado por la empresa",
+            "idEstado": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Impresora multifuncional",
+            "descripcion": "Impresora corporativa de Sistemas",
+            "idEstado": 1
+        }
+    ]
+}

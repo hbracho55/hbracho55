@@ -1,0 +1,14 @@
+.menusuperiorcorreo__container {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;;
+  }
+  
+  .menusuperiorcorreo__enlace {
+    font-size: 14px;
+    
+  }
+  
+  .menusuperiorcorreo__body__enlaces {
+    padding: 15px;
+  }

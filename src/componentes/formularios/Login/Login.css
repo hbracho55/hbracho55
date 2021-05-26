@@ -1,0 +1,38 @@
+.login__principal {
+    background: whitesmoke;
+  }
+
+.login__container{
+   
+  max-width: 350px;
+  margin: auto;
+  border: 1px;
+  border-color: gray;
+  gap: 5px;
+
+  display: grid;
+  grid-template-columns: 1fr;
+    
+}
+
+.login__titulo {
+   color: blue;
+}
+
+.login__sesion {
+    max-width: 350px;
+}
+
+.login__footer{
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px){
+
+    .login__container .login__sesion,
+    .login__container .login__footer{
+      grid-column: 1/-1;
+    }
+  
+  }

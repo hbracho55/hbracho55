@@ -1,0 +1,22 @@
+{
+    "causasData": [
+        {
+            "id": 1,
+            "nombre": "Error de usuario",
+            "descripcion": "Usuario hizo una operación equivocada",
+            "idEstado": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Falla en programa",
+            "descripcion": "El programa tiene una vulnerabilidad",
+            "idEstado": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Error de analista",
+            "descripcion": "No hizo bien el trabajo",
+            "idEstado": 1
+        }
+    ]
+}

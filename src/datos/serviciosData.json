@@ -1,0 +1,52 @@
+{
+    "serviciosData": [
+        {
+            "id": 1,
+            "nombre": "Instalar de Software",
+            "descripcion": "Instalación de todo tipo de Software en equipos corporativos",
+            "idEstado": 2
+        },
+        {
+            "id": 2,
+            "nombre": "Formatear equipo",
+            "descripcion": "Realizar imagen de disco en equipo corporativo",
+            "idEstado": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Respaldar información",
+            "descripcion": "Guardar todo tipo de información corporativa",
+            "idEstado": 1
+        },
+        {
+            "id": 4,
+            "nombre": "Crear usuario",
+            "descripcion": "Registrar datos de usuario en bd corporativa",
+            "idEstado": 2
+        },
+        {
+            "id": 5,
+            "nombre": "Crear accesos",
+            "descripcion": "Crear accesos en red corporativa",
+            "idEstado": 1
+        },
+        {
+            "id": 6,
+            "nombre": "Dar asesoría",
+            "descripcion": "Dar asesoría sobre productos de la empresa",
+            "idEstado": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Configurar sistema",
+            "descripcion": "Configurar sistema de acuerdo a los parametros corporativos",
+            "idEstado": 1
+        },
+        {
+            "id": 8,
+            "nombre": "Ejecutar mejoras",
+            "descripcion": "Ejecutar mejoras contínuas a sistemas",
+            "idEstado": 1
+        }
+    ]
+}

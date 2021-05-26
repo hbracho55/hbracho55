@@ -1,0 +1,31 @@
+.correo__container{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border: 1px;
+    border-color: gray;
+    gap: 0px;
+    
+    display: grid;
+    grid-template-columns: 100%
+}
+
+.correo__menusecundario{
+    background: whitesmoke;
+    max-width: 170px;
+    padding-left: 5px;
+    margin: 0px;
+    border: 1px solid rgb(226, 225, 225)
+}
+
+.correo__lista{
+    padding: 0px;
+    margin: 0px;
+}
+
+.correo__menusuperior{
+    background: whitesmoke;
+    padding-left: 5px;
+    margin: 0px;
+    border: 1px solid rgb(226, 225, 225)
+}

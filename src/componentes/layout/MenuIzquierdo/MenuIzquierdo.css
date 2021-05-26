@@ -1,0 +1,14 @@
+.menu__titulo {
+  font-size: 15px;
+  background-color: #f6fafd;
+  padding: 0px;;
+}
+
+.menu__enlace {
+  font-size: 14px;
+  
+}
+
+.menu__body__enlaces {
+  padding: 15px;
+}

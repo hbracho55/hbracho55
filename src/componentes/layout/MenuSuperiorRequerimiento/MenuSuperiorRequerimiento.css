@@ -1,0 +1,15 @@
+.menusuperiorrequerimiento__container {
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    
+  }
+  
+  .menusuperiorrequerimiento__enlace {
+    font-size: 14px;
+    
+  }
+  
+  .menusuperiorrequerimiento__body__enlaces {
+    padding: 15px;
+  }
